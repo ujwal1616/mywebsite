@@ -1,0 +1,49 @@
+You are an expert React/Next.js + Tailwind developer. 
+Build me a **modern, recruiter-attractive portfolio website** using Next.js 14, TailwindCSS, and TypeScript, fully responsive and optimized for fast loading. 
+It should be host-ready on Replit or Vercel. 
+Use a sleek design with a professional + creative vibe, because I am building a career in **AI, app development, and automation**.
+
+Here are my real details—integrate them into the design naturally:
+
+- Name: Ujwal Sharma
+- Tagline (Hero section): “AI Innovator | App Builder | Finance & Automation Enthusiast”
+
+- About Me:
+  I am a passionate AI learner and app developer with a unique blend of technology and finance. 
+  My journey combines building apps with AI support, financial markets experience, and automation skills. 
+  I am pursuing Columbia University’s *AI for Business* course (certificate upcoming), and I hold an NISM Equity Derivatives certification as well as a Certificate of Merit in Financial Management. 
+  I aim to leverage AI, automation, and my financial acumen to create impactful solutions and secure roles in cutting-edge companies.
+
+- Key Skills (show these in stylish cards or badges):
+  • AI/ML Fundamentals (Columbia AI for Business course in progress)  
+  • App Development (Next.js, React, FlutterFlow, GitHub, VS Code)  
+  • Backend & Auth (Firebase, Supabase with AI-assisted implementation)  
+  • Automation (n8n workflows, Node.js basics, prompt engineering)  
+  • Finance & Trading (2 years of stock trading experience, NISM certified, financial management merit certificate)  
+  • Tools: GitHub, Replit, Firebase, Supabase, Vercel, Netlify  
+
+- Projects (make elegant project cards with hover effects):
+  1. **Metanoia Website** – GitHub-hosted website for my job-matching app (live link coming soon). Features include profile swiping between HRs and candidates, concept and logic designed by me, implementation with AI assistance.
+  2. **Metanoia App (Work in Progress)** – Mobile-first app designed on FlutterFlow. Though incomplete, the GitHub repo documents all core features and logic I conceptualized.
+  3. **Morphiqqr (Offline QR Messaging App)** – An experimental offline messaging concept using QR technology. Not yet live, but demonstrates my ability to prototype unique app ideas with AI support.
+
+- Resume: Add a “Download Resume” button (placeholder link now).
+- Blog Section: Add a simple blog layout with sample posts. I will later use this to write about AI, automation, app development, and finance.
+- Contact Section (with icons):
+  - Email: vishusharmasharma2012@gmail.com
+  - LinkedIn: https://www.linkedin.com/in/ujwal-sharma-b5146b202
+  - GitHub: https://github.com/ujwal1616
+  - (make these links prominent with icons 
+
+⚡ Design & Features:
+- Hero section with my name, tagline, and a strong call-to-action (“Explore My Work”).  
+- Dark/light toggle with smooth transitions.  
+- Section animations using Framer Motion.  
+- Skills and Projects displayed in responsive grids with hover interactions.  
+- Minimal yet bold typography (professional but modern).  
+- SEO optimized with meta tags (Title: “Ujwal Sharma | AI Portfolio”).  
+- Add a placeholder for Google Analytics.  
+- Mobile-first design, fast loading.  
+
+Deliver the full Next.js project with clean, well-structured code, ready to deploy on Vercel or Replit. 
+The final look should feel professional, recruiter-friendly, and reflect my versatility in AI, app development, finance, and automation.
