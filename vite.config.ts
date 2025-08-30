@@ -9,7 +9,10 @@ export default defineConfig({
   ],
   resolve: {
     alias: {
-      "@": path.resolve(__dirname, "src"),
+      // Point /src to client/src
+      "/src": path.resolve(__dirname, "client/src"),
+      // Keep your existing aliases
+      "@": path.resolve(__dirname, "src"),           // Update if needed
       "@shared": path.resolve(__dirname, "shared"),
     },
   },
