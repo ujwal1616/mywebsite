@@ -15,8 +15,14 @@
       "dest": "https://rest-express.0908vishu.repl.co/api/$1"
     },
     {
+      "src": "/(.*\\.(js|css|png|jpg|jpeg|svg|ico|webp|gif|json))$",
+      "headers": {
+        "cacheTTL": "31536000"
+      }
+    },
+    {
       "src": "/(.*)",
-      "dest": "/index.html"
+      "dest": "/dist/index.html"
     }
   ]
 }
