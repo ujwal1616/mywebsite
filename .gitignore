@@ -1,6 +1,22 @@
+# dependencies
 node_modules
+
+# production build
 dist
+
+# system files
 .DS_Store
+
+# server public uploads or build
 server/public
+
+# vite config backups
 vite.config.ts.*
+
+# compressed archives
 *.tar.gz
+
+# local env files
+.env
+.env.local
+.env.*.local
