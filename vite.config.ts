@@ -4,21 +4,22 @@ import path from "path";
 
 export default defineConfig({
   plugins: [
-    react(),
-    // Removed Replit-only plugins (they break on Vercel)
+    react({
+      jsxRuntime: "automatic",
+    }),
   ],
   resolve: {
     alias: {
-      // Point /src to client/src
+      // Redirect /src to client/src
       "/src": path.resolve(__dirname, "client/src"),
-      // Keep your existing aliases
-      "@": path.resolve(__dirname, "client/src"),           // Update if needed
+      // Keep your other aliases
+      "@": path.resolve(__dirname, "client/src"),
       "@shared": path.resolve(__dirname, "shared"),
     },
   },
   root: ".", // Serve from root (where index.html is)
   build: {
-    outDir: "dist", // Vercel expects this
+    outDir: "dist",
     emptyOutDir: true,
     sourcemap: true,
   },
