@@ -8,7 +8,7 @@ export function ProjectsSection() {
     {
       title: "Metanoia Website",
       status: "",
-      description: "GitHub-hosted website for innovative job-matching app featuring profile swiping between HRs and candidates. Complete concept and logic design with AI-assisted implementation.",
+      description: "Prototype website showcasing an experimental job-matching concept with interactive swiping, animated flows, and toggle-based features. Built as a blueprint for the Metanoia app, highlighting user experience design and innovative hiring logic",
       icon: Handshake,
       gradient: "from-primary to-accent",
       tags: ["React", "GitHub", "AI-Assisted"],
@@ -17,7 +17,7 @@ export function ProjectsSection() {
     {
       title: "Metanoia App",
       status: "(WIP)",
-      description: "Mobile-first application designed on FlutterFlow. Comprehensive GitHub documentation showcases all core features and conceptualized logic for professional networking.",
+      description: "Mobile-first job-matching app reimagining how candidates and HR connect. Swipe, match, and interact with opportunities, creating a fast, intuitive, and engaging hiring experience.",
       icon: Smartphone,
       gradient: "from-accent to-primary",
       tags: ["FlutterFlow", "Mobile", "Firebase"],
@@ -26,7 +26,7 @@ export function ProjectsSection() {
     {
       title: "Morphiqqr",
       status: "",
-      description: "Experimental offline messaging application using innovative QR technology. Demonstrates advanced prototyping abilities and unique problem-solving approach with AI support.",
+      description: "Experimental offline messaging app using QR code technology for seamless data transfer without internet. Demonstrates advanced prototyping and AI-assisted implementation, showcasing innovation in real-world communication.",
       icon: QrCode,
       gradient: "from-secondary to-muted",
       tags: ["QR Tech", "Offline", "Prototype"],
