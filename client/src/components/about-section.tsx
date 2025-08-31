@@ -15,14 +15,13 @@ export function AboutSection() {
         <div className="grid lg:grid-cols-2 gap-12 items-center">
           <div className="space-y-6">
             <p className="text-lg leading-relaxed" data-testid="text-about-paragraph-1">
-              Ujwal Sharma demonstrates exceptional analytical thinking through his unique journey from finance to AI. With 2+ years of active stock trading experience and NISM Equity Derivatives certification, he brings a rare combination of market analysis skills and emerging AI capabilities to the technology sector.
+              Ujwal Sharma is a BBA graduate and NISM-certified Equity Derivatives professional, blending deep business acumen with advanced AI exploration. With a foundation in finance and analytics, he is now channeling his expertise into Artificial Intelligence, where he designs and experiments with generative AI models to create real-world, scalable solutions
             </p>
             <p className="text-lg leading-relaxed" data-testid="text-about-paragraph-2">
-              Currently pursuing Columbia University's AI for Business certification, Ujwal combines his proven financial acumen with cutting-edge AI development skills. His approach to problem-solving reflects both the precision required in financial markets and the innovative thinking needed in AI applications.
+             Currently sharpening his capabilities through specialized AI courses and hands-on projects, Ujwal positions himself at the intersection of business strategy and machine intelligence. His approach is not just about learning technology—it’s about reimagining how AI can transform industries, from finance to enterprise applications.
             </p>
             <p className="text-lg leading-relaxed" data-testid="text-about-paragraph-3">
-              Ujwal's portfolio showcases his ability to conceptualize and implement solutions that address real-world challenges, from job-matching applications to innovative messaging systems, all while maintaining the analytical rigor developed through his finance background.
-            </p>
+             This rare combination of financial discipline, strategic problem-solving, and AI-driven innovation makes him a high-impact professional prepared to thrive in leading technology companies that value creativity, precision, and future-ready thinking.
             
             {/* Stats */}
             <div className="grid grid-cols-3 gap-6 mt-8">
