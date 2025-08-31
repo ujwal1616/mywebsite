@@ -52,7 +52,7 @@ export function HeroSection() {
           style={{ animationDelay: "0.4s" }}
           data-testid="text-hero-description"
         >
-          Transforming financial expertise into AI-driven solutions. Currently pursuing Columbia University's AI for Business certification while building innovative applications that bridge finance and technology.
+          Exploring how AI can revolutionize finance by turning ideas into practical projects. With a foundation in financial expertise and a drive to build real-world AI applications, I’m focused on sharpening my analytical thinking and creating solutions that can make an impact.
         </p>
         
         <div 
