@@ -4,7 +4,7 @@ A modern, responsive portfolio website showcasing expertise in AI development, f
 
 ## 🚀 Live Demo
 
-[View Live Portfolio](ujwalportfolio-eight.vercel.app)
+[View Live Portfolio](https://ujwalportfolio-eight.vercel.app/))
 
 ## 📋 About
 
