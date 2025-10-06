@@ -10,10 +10,8 @@ export default defineConfig({
   ],
   resolve: {
     alias: {
-      // Redirect /src to client/src
-      "/src": path.resolve(__dirname, "client/src"),
-      // Keep your other aliases
-      "@": path.resolve(__dirname, "client/src"),
+      "/src": path.resolve(__dirname, "src"),
+      "@": path.resolve(__dirname, "src"),
       "@shared": path.resolve(__dirname, "shared"),
     },
   },
