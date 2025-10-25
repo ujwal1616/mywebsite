@@ -34,7 +34,7 @@ This portfolio showcases Ujwal Sharma's journey as an AI innovator and app devel
 - **TypeScript** for type safety
 - **In-memory storage** (ready for database integration)
 
-### Development Tools
+### Development Tools 
 - **Vite** for fast development and building
 - **ESBuild** for production bundling
 - **Hot Module Replacement** for instant updates
