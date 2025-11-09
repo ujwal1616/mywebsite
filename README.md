@@ -39,9 +39,9 @@ This portfolio showcases Ujwal Sharma's journey as an AI innovator and app devel
 - **ESBuild** for production bundling
 - **Hot Module Replacement** for instant updates
 
-## 🚀 Quick Start
+## 🚀 Quick Start 
 
-### Prerequisites
+### Prerequisites 
 - Node.js 18+ 
 - npm or yarn
 
