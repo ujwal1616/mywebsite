@@ -1,4 +1,4 @@
-# Ujwal Sharma - AI Portfolio Website
+# Ujwal Sharma - AI Portfolio Website 
 
 A modern, responsive portfolio website showcasing expertise in AI development, financial technology, and automation. Built with React, TypeScript, and Express.js.
 
